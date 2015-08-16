@@ -1,0 +1,73 @@
+body{
+    
+    background-image: url("../img/preview.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    }
+
+.carousel-inner {
+    
+    text-align: center;
+    
+}
+
+.col-lg-5{
+    padding: 13px;
+    border: 1px solid white;
+   
+    border-radius: 3px;
+}
+.white-text {
+    color:#4E0B0B;
+}
+
+.navbar-default
+{
+    padding: 10px !important;
+    border-radius: 0px !important;
+    background-color: #16a085;
+    border: 0px !important;
+}
+
+.col-lg-5{
+padding: 13px;
+border: 1px solid #FFF;
+border-radius: 3px;
+background-color: rgba(245, 245, 245, 0.52);
+}
+.col-lg-3{
+    padding: 13px;
+    border: 1px solid #FFF;
+    border-radius: 3px;
+    width: 30%;
+    background-color: rgba(245, 245, 245, 0.52);
+}
+.col-lg-4{
+    padding: 1px;
+}
+.user{
+    margin:3px;
+}
+.fa-twitter {
+    color: white;
+}
+._cbc-t{
+    background-color: #00a4e4;
+    color: white;
+}
+._cbc-g
+{
+    background-color: #ff4c4c;color: white;
+}
+._cbc-f{
+    background-color: #4264AA;color: white;
+}
+
+.header-title-link
+{
+    color: inherit;
+}
+.header-title-link:hover
+{
+    text-decoration: none !important;
+}
